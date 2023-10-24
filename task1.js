@@ -11,4 +11,5 @@ console.log(cemi)
 //}
 
 //console.log(sum(5,10)) 
+crossOriginIsolated.log("hello world");
 
